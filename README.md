@@ -10,7 +10,7 @@
 ---
 
 ## 🎥 Project Demo
-**[Click here to watch the Demo Video on YouTube/Loom]** *(Insert your video link here!)*
+[Click here to watch the Demo Video](https://lnkd.in/p/gfzgYva9)
 
 ---
 
