@@ -58,5 +58,5 @@ I have written a highly detailed, click-by-click walkthrough guide that will tak
 ---
 
 <div align="center">
-  <i>Built with ☕ and AWS by [Your Name]</i>
+  <i>Built with ☕ and AWS by nim</i>
 </div>
